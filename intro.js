@@ -18,3 +18,5 @@ btnCambiarColor.addEventListener("click", () => {
 function cambiarColorFondo(color) {
   document.body.style.backgroundColor = color;
 }
+
+//Agregando comentario
